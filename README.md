@@ -12,7 +12,7 @@
 
 ### - I'm Dmitry, a **Fullstack Developer** passionate about building scalable and reliable systems.  
 
-<img height="280" width="498" alt="GIF" align="right" src="https://github.com/DhimanMi/DhimanMi/blob/main/assets/gifs/998b33db7472d830d8585370a58165ea.gif">
+<img height="200" width="498" alt="GIF" align="right" src="https://github.com/DhimanMi/DhimanMi/blob/main/assets/gifs/998b33db7472d830d8585370a58165ea.gif">
 
 ### - What I do:  
 - 🛠 **Backend & DevOps:** High-load services, automation, CI/CD, containerization.  
