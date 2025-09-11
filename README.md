@@ -70,13 +70,13 @@ If you want to reach out for projects, collaboration, or just to chat, ping me ð
 </p>
 
 <a href="mailto:dhimanmi.com@gmail.com">
- <img align="left" alt="Gmail" width="80" height="80" src="./assets/icons/icons8-gmail-100.png" />
+ <img align="left" alt="Gmail" width="60" height="60" src="./assets/icons/icons8-gmail-100.png" />
 </a>
 <a href="https://t.me/yum_yum_off">
-  <img align="left" alt="Telegram" width="80" height="80" src="./assets/icons/icons8-telegram-100.png" />
+  <img align="left" alt="Telegram" width="60" height="60" src="./assets/icons/icons8-telegram-100.png" />
 </a>
 <a href="https://github.com/dhimanmi">
-  <img align="left" alt="GitHub" width="80" height="80" src="./assets/icons/icons8-github-100.png" />
+  <img align="left" alt="GitHub" width="60" height="60" src="./assets/icons/icons8-github-100.png" />
 </a>
 </br>
 </br>
