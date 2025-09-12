@@ -15,9 +15,10 @@
 <img height="250" width="445" alt="GIF" align="right" src="https://github.com/DhimanMi/DhimanMi/blob/main/assets/gifs/998b33db7472d830d8585370a58165ea.gif">
 
 ### - What I do:  
-- 🛠 **Backend & DevOps:** Node.js, Python, C#, SQL/MySQL, Docker, Linux.
+- 🛠 **Backend & DevOps:** Node.js, Python, C#, SQL/MySQL, Docker, Linux.  
 - 🎨 **Frontend:** React, TypeScript, HTML5, CSS3, REST API, Bootstrap, Firebase.  
-- 📚 **Lifelong Learning:** Exploring new tools and technologies.
+- 📚 **Lifelong Learning:** Exploring new tools and technologies.    
+
 ---
 
 # Languages & Tools 👨‍💻 🛠
