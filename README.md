@@ -67,13 +67,13 @@ If you want to reach out for projects, collaboration, or just to chat, ping me ð
 </p>
 
 <a href="mailto:dhimanmi.com@gmail.com">
- <img align="left" alt="Gmail" width="50" height="50" src="./assets/icons/icons8-gmail-100.png" />
+ <img align="left" alt="Gmail" width="50" height="50" src="./assets/icons/icons8-gmail-100 (1).png" />
 </a>
 <a href="https://t.me/yum_yum_off">
-  <img align="left" alt="Telegram" width="50" height="50" src="./assets/icons/icons8-telegram-100.png" />
+  <img align="left" alt="Telegram" width="50" height="50" src="./assets/icons/icons8-telegram-100 (1).png" />
 </a>
 <a href="https://github.com/dhimanmi">
-  <img align="left" alt="GitHub" width="50" height="50" src="./assets/icons/icons8-github-100.png" />
+  <img align="left" alt="GitHub" width="50" height="50" src="./assets/icons/icons8-github-100.png (1)" />
 </a>
 </br>
 </br>
