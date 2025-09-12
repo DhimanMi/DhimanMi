@@ -15,9 +15,9 @@
 <img height="250" width="445" alt="GIF" align="right" src="https://github.com/DhimanMi/DhimanMi/blob/main/assets/gifs/998b33db7472d830d8585370a58165ea.gif">
 
 ### - What I do:  
-- 🛠 **Backend & DevOps:** Node.js, Python, C#, SQL/MySQL, Docker, Linux. 
-- 🎨 **Frontend:** React, TypeScript, HTML5, CSS3, REST API, Bootstrap, Firebase.  
-- 📚 **Lifelong Learning:** Exploring new tools and technologies.
+- 🛠 **Backend & DevOps:** High-load services, automation, CI/CD, containerization.  
+- 🎨 **Frontend:** React, Redux, Next.js, polished UI/UX.  
+- 📚 **Lifelong Learning:** Exploring new tools and technologies.  
 
 ---
 
@@ -67,13 +67,13 @@ If you want to reach out for projects, collaboration, or just to chat, ping me �
 </p>
 
 <a href="mailto:dhimanmi.com@gmail.com">
- <img align="left" alt="Gmail" width="50" height="50" src="./assets/icons/icons8-gmail-100 (1).png" />
+ <img align="left" alt="Gmail" width="50" height="50" src="./assets/icons/icons8-gmail-100.png" />
 </a>
 <a href="https://t.me/yum_yum_off">
-  <img align="left" alt="Telegram" width="50" height="50" src="./assets/icons/icons8-telegram-100 (1).png" />
+  <img align="left" alt="Telegram" width="50" height="50" src="./assets/icons/icons8-telegram-100.png" />
 </a>
 <a href="https://github.com/dhimanmi">
-  <img align="left" alt="GitHub" width="50" height="50" src="./assets/icons/icons8-github-100.png (1)" />
+  <img align="left" alt="GitHub" width="50" height="50" src="./assets/icons/icons8-github-100.png" />
 </a>
 </br>
 </br>
