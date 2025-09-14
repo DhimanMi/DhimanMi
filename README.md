@@ -19,8 +19,6 @@
 - 🎨 **Frontend:** React, TypeScript, HTML5, CSS3, REST API, Bootstrap, Firebase.  
 - 📚 **Lifelong Learning:** Exploring new tools and technologies.    
 
----
-
 # Languages & Tools 👨‍💻 🛠
 
 <p align="center">
