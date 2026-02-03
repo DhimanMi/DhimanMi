@@ -1,9 +1,5 @@
 # Hi, I’m Dmitry
 
-<div align="center">
-<img height="393" width="700" alt="GIF" align="center" src="https://github.com/DhimanMi/DhimanMi/blob/main/assets/gifs/fc1c8c233f91166d9fbcd2a93abdf207.gif">
-</div>
-
 </br>
 </br>
 </br>
@@ -11,8 +7,6 @@
 # About ME 💬 :
 
 ### - I'm Dmitry, a **Fullstack Developer** passionate about building scalable and reliable systems.  
-
-<img height="250" width="445" alt="GIF" align="right" src="https://github.com/DhimanMi/DhimanMi/blob/main/assets/gifs/998b33db7472d830d8585370a58165ea.gif">
 
 ### - What I do:  
 - 🛠 **Backend & DevOps:** Node.js, Python, C#, SQL/MySQL, Docker, Linux.  
