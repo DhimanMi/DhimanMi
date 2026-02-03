@@ -44,8 +44,6 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40">
 </p>
 
-</br>
-
 # Contact Me :
 
 <p>
