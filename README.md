@@ -1,9 +1,5 @@
 # Hi, I’m Dmitry
 
-</br>
-</br>
-</br>
-
 # About ME 💬 :
 
 ### - I'm Dmitry, a **Fullstack Developer** passionate about building scalable and reliable systems.  
@@ -48,8 +44,6 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40">
 </p>
 
-</br>
-</br>
 </br>
 
 # Contact Me :
